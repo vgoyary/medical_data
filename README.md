@@ -7,7 +7,7 @@ This project involves converting and analyzing medical data, starting from a JSO
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Data Processing Workflow](#work flow)
+5. [Data Processing Workflow](#workflow)
 
 ## Introduction
 
