@@ -6,3 +6,9 @@ matplotlib
 seaborn
 xlrd
 xlwt
+textstat
+spacy
+scikit-learn
+openai
+wordcloud
+gensim
